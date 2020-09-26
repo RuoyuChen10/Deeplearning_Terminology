@@ -59,9 +59,7 @@
 #### (1)Sigmoid:
 
 $$
-
 Sigmoid(x)=\frac{1}{1+e^{-x}}
-
 $$
 
 #### (2)Tanh:
