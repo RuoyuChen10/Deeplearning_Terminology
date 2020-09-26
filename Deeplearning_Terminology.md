@@ -58,9 +58,7 @@
 ### 8. 激活函数：Activation function
 #### (1)Sigmoid:
 
-$$
-Sigmoid(x)=\frac{1}{1+e^{-x}}
-$$
+$$Sigmoid(x)=\frac{1}{1+e^{-x}}$$
 
 #### (2)Tanh:
 
